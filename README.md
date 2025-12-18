@@ -1,4 +1,7 @@
 # AutomationZ Config Diff
+**Build for my DayZ Server to compare backups of files / folders which i make before making changes. 
+If i encounter a error i can download the current files make 2 snapshots and compare the snapshots and see the changes made in the report files.
+**No DayZ mod** required can be used for any Game / server, website, whatever has folders and files!**
 
 **AutomationZ Config Diff** is a lightweight **snapshot + compare (diff)** tool for server admins and modders.
 It helps you quickly answer the question:
@@ -8,7 +11,6 @@ It helps you quickly answer the question:
 It’s perfect for debugging **broken loot**, **wrong settings**, **DayZ updates**, **wipes**, or accidental edits.
 
 ✅ Works on **Windows / Linux / macOS**  
-✅ **No DayZ mod** required  
 ✅ Creates clean **Markdown diff reports** you can share  
 ✅ Beginner-friendly workflow
 
