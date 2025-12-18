@@ -66,6 +66,15 @@ python3 app/main.py
 5. Snapshot AFTER
 6. Diff and read report
 
+### Typical Use Case
+
+1. Download a backup of your server files
+2. Create a snapshot (`before_update`)
+3. Make changes or update your server
+4. Download the new files
+5. Create another snapshot (`after_update`)
+6. Run a diff and review the generated report
+
 ---
 
 ## Hosted servers (Nitrado etc.)
